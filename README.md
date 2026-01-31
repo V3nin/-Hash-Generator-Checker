@@ -27,33 +27,27 @@ It is designed to demonstrate the basics of hashing in a simple and visual way.
 
 ### Installation
 
-This project requires the following Python package:
+No installation required.
 
-```bash
-pip install pillow
-````
-
-> `hashlib` and `tkinter` are included by default with Python.
+This project is distributed as a **standalone Windows executable (.exe)**.  
+Python and dependencies are already included in the executable.
 
 ### Usage
 
-1. Run the script:
-
-```bash
-python hash_tool_gui.py
-```
-
-2. Enter text in the input field.
-3. Select the hashing algorithm.
-4. Click **Generate** to obtain the hash.
+1. Download the `.exe` file.
+2. Double-click to launch the application.
+3. Enter text in the input field.
+4. Select the hashing algorithm.
+5. Click **Generate** to obtain the hash.
 
 ### Security Notes
 
 * This tool does **not** reverse or crack hashes
 * No data is stored, logged, or transmitted
+* Runs entirely offline
 * Intended for **educational and awareness purposes**
 
 ---
 
-Developed by **p8pc**
+Developed by **p8pc**  
 Licensed under the **MIT License**
